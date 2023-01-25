@@ -8,7 +8,7 @@
 
 ## Công nghệ và kỹ thuật sử dụng
 1. MVVM, Repository pattern, Clean Architecture.
-2. Material3, Jetpack Compose, UDF pattern.
+2. Material 3, Jetpack Compose, UDF pattern.
 3. Hilt, Navigation Compose, WorkManager, Preferences DataStore.
 4. Firebase Authentication, Cloud Firestore, Crashlytics.
 5. Coil Compose.
