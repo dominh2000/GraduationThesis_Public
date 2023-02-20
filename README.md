@@ -1,6 +1,6 @@
 <h1 align="center">Đồ án tốt nghiệp - Graduation Thesis</h1>
 
-<p style="text-align: center">
+<p align="center">
     <img src="https://custom-icon-badges.demolab.com/badge/material%20you-EA0202?style=for-the-badge&logoColor=white&logo=material-you" alt="material_you">
     <img src="https://img.shields.io/badge/Api%2021+-blue?logo=android&logoColor=white&style=for-the-badge" alt="min_api_21">
     <img src="https://img.shields.io/badge/Kotlin-a503fc?logo=kotlin&logoColor=white&style=for-the-badge" alt="kotlin">
