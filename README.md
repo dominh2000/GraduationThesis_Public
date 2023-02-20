@@ -30,7 +30,7 @@
 
 ## Tải xuống
 
-Chuyển đến mục [Release](https://github.com/dominh2000/GraduationThesis_Public/releases) và tải xuống file APK
+Chuyển đến mục [Releases](https://github.com/dominh2000/GraduationThesis_Public/releases) và tải xuống file APK
 của phiên bản mới nhất.
 
 ## Công nghệ và kỹ thuật sử dụng
