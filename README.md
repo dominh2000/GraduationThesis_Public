@@ -1,4 +1,4 @@
-<h1 style="text-align: center">Đồ án tốt nghiệp - Graduation Thesis</h1>
+<h1 align="center">Đồ án tốt nghiệp - Graduation Thesis</h1>
 
 <p style="text-align: center">
     <img src="https://custom-icon-badges.demolab.com/badge/material%20you-EA0202?style=for-the-badge&logoColor=white&logo=material-you" alt="material_you">
