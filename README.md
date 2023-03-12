@@ -12,8 +12,8 @@
 * Sinh viên: Trần Đỗ Minh.
 * Lớp: D18CNPM2 PTIT.
 * Bảo vệ ngày: 11 tháng 1 năm 2023.
-* Phiên bản v1.0 là phiên bản dùng để bảo vệ trước hội đồng chấm Đồ án tốt nghiệp.
-* Các phiên bản sau v1.0 là các bản nâng cấp, bổ sung chức năng và sửa lỗi.
+* Phiên bản [1.0](https://github.com/dominh2000/GraduationThesis_Public/releases/tag/v1.0) là phiên bản dùng để bảo vệ trước hội đồng chấm Đồ án tốt nghiệp.
+* Các phiên bản sau 1.0 là các bản nâng cấp, bổ sung chức năng và sửa lỗi.
 
 ## Các chức năng của ứng dụng
 
@@ -32,6 +32,10 @@
 
 Chuyển đến mục [Releases](https://github.com/dominh2000/GraduationThesis_Public/releases) và tải xuống file APK
 của phiên bản mới nhất.
+
+Từ phiên bản [1.1.3](https://github.com/dominh2000/GraduationThesis_Public/releases/tag/v1.1.3) trở lên, ứng dụng có sự thay đổi
+về không gian tên. Nếu đã cài đặt các phiên bản từ [1.1.2](https://github.com/dominh2000/GraduationThesis_Public/releases/tag/v1.1.2) 
+trở xuống của ứng dụng, cần gỡ cài đặt chúng trước khi cài đặt phiên bản mới. 
 
 ## Công nghệ và kỹ thuật sử dụng
 
