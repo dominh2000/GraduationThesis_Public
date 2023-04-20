@@ -12,7 +12,7 @@
 
 [<img src="https://play.google.com/intl/vi/badges/static/images/badges/vi_badge_web_generic.png"
    alt='Get it on Google Play'
-   height="80">](https://play.google.com/store/apps/details?id=ru.tech.imageresizershrinker)
+   height="80">](https://play.google.com/store/apps/details?id=minhtd.projects.englishrevision.app)
 
 </div>
 
