@@ -8,6 +8,14 @@
     <img src="https://img.shields.io/badge/Firebase-FFAA00?logo=firebase&logoColor=white&style=for-the-badge" alt="firebase">
 </p>
 
+<div align="center">
+
+[<img src="https://play.google.com/intl/vi/badges/static/images/badges/vi_badge_web_generic.png"
+   alt='Get it on Google Play'
+   height="80">](https://play.google.com/store/apps/details?id=ru.tech.imageresizershrinker)
+
+</div>
+
 * Đề tài: Xây dựng ứng dụng Android ôn thi tuyển sinh lớp 10 Hà Nội môn tiếng Anh.
 * Sinh viên: Trần Đỗ Minh.
 * Lớp: D18CNPM2 PTIT.
@@ -30,7 +38,9 @@
 
 ## Tải xuống
 
-Chuyển đến mục [Releases](https://github.com/dominh2000/GraduationThesis_Public/releases) và tải xuống file APK
+Click vào huy hiệu "Tải trên Google Play" ở đầu trang để tải xuống phiên bản mới nhất của ứng dụng trên 
+[Google Play](https://play.google.com/store/apps/developer?id=Minh+Blackice). 
+Hoặc có thể chuyển đến mục [Releases](https://github.com/dominh2000/GraduationThesis_Public/releases) và tải xuống file APK
 của phiên bản mới nhất.
 
 Từ phiên bản [1.1.3](https://github.com/dominh2000/GraduationThesis_Public/releases/tag/v1.1.3) trở lên, ứng dụng có sự thay đổi
