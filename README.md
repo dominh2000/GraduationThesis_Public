@@ -60,5 +60,7 @@ trở xuống của ứng dụng, cần gỡ cài đặt chúng trước khi cà
    [Preferences DataStore](https://developer.android.com/topic/libraries/architecture/datastore).
 4. Firebase [Authentication](https://firebase.google.com/docs/auth),
    [Cloud Firestore](https://firebase.google.com/docs/firestore),
-   [Crashlytics](https://firebase.google.com/docs/crashlytics).
-5. [Coil Compose](https://coil-kt.github.io/coil/compose/).
+   [Crashlytics](https://firebase.google.com/docs/crashlytics),
+   [Performance Monitoring](https://firebase.google.com/docs/perf-mon).
+5. [Coil Compose](https://coil-kt.github.io/coil/compose/),
+   [Konfetti](https://github.com/DanielMartinus/Konfetti).
