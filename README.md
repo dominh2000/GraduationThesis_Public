@@ -63,4 +63,5 @@ trở xuống của ứng dụng, cần gỡ cài đặt chúng trước khi cà
    [Crashlytics](https://firebase.google.com/docs/crashlytics),
    [Performance Monitoring](https://firebase.google.com/docs/perf-mon).
 5. [Coil Compose](https://coil-kt.github.io/coil/compose/),
+   [Lottie Compose](https://github.com/airbnb/lottie/blob/master/android-compose.md),
    [Konfetti](https://github.com/DanielMartinus/Konfetti).
