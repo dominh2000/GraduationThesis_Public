@@ -38,6 +38,7 @@ height="80">](https://play.google.com/store/apps/details?id=minhtd.projects.engl
 9. Tùy chọn tối ưu mức sử dụng pin với Android 6+.
 10. Xem thông tin chi tiết của ứng dụng.
 11. Widget ở màn hình nền.
+12. Xóa dữ liệu người dùng (tài khoản & lịch sử luyện tập).
 
 ## Tải xuống
 
