@@ -3,7 +3,8 @@
 <p align="center">
     <img src="https://custom-icon-badges.demolab.com/badge/material%20you-EA0202?style=for-the-badge&logoColor=white&logo=material-you" alt="material_you">
     <img src="https://img.shields.io/badge/Api%2021+-gray?logo=android&logoColor=white&style=for-the-badge" alt="min_api_21">
-    <img src="https://img.shields.io/badge/Api%2023+-blue?logo=android&logoColor=white&style=for-the-badge" alt="min_api_23">
+    <img src="https://img.shields.io/badge/Api%2023+-gray?logo=android&logoColor=white&style=for-the-badge" alt="min_api_23">
+    <img src="https://img.shields.io/badge/Api%2023+-green?logo=android&logoColor=white&style=for-the-badge" alt="min_api_24">
     <img src="https://img.shields.io/badge/Kotlin-a503fc?logo=kotlin&logoColor=white&style=for-the-badge" alt="kotlin">
     <img src="https://img.shields.io/badge/Jetpack%20Compose-03C54F?logo=jetpackcompose&logoColor=white&style=for-the-badge" alt="jetpack_compose">
     <img src="https://img.shields.io/badge/Firebase-FFAA00?logo=firebase&logoColor=white&style=for-the-badge" alt="firebase">
@@ -56,6 +57,8 @@ trở xuống của ứng dụng, cần gỡ cài đặt chúng trước khi cà
 
 Từ phiên bản [1.2.16](https://github.com/dominh2000/GraduationThesis_Public/releases/tag/v1.2.16) trở lên, ứng dụng chỉ hỗ trợ
 các thiết bị chạy tối thiểu là Android 6 (cấp độ API 23).
+
+Từ phiên bản [1.3.0](https://github.com/dominh2000/GraduationThesis_Public/releases/tag/v1.3.0) trở lên, ứng dụng hỗ trợ nhiều định dạng màn hình thiết bị khác nhau, và chỉ hỗ trợ các thiết bị chạy tối thiểu là Android 7.0 (cấp độ API 24).
 
 ## Công nghệ và kỹ thuật sử dụng
 
