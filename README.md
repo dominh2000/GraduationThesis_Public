@@ -4,7 +4,7 @@
     <img src="https://custom-icon-badges.demolab.com/badge/material%20you-EA0202?style=for-the-badge&logoColor=white&logo=material-you" alt="material_you">
     <img src="https://img.shields.io/badge/Api%2021+-gray?logo=android&logoColor=white&style=for-the-badge" alt="min_api_21">
     <img src="https://img.shields.io/badge/Api%2023+-gray?logo=android&logoColor=white&style=for-the-badge" alt="min_api_23">
-    <img src="https://img.shields.io/badge/Api%2023+-green?logo=android&logoColor=white&style=for-the-badge" alt="min_api_24">
+    <img src="https://img.shields.io/badge/Api%2024+-green?logo=android&logoColor=white&style=for-the-badge" alt="min_api_24">
     <img src="https://img.shields.io/badge/Kotlin-a503fc?logo=kotlin&logoColor=white&style=for-the-badge" alt="kotlin">
     <img src="https://img.shields.io/badge/Jetpack%20Compose-03C54F?logo=jetpackcompose&logoColor=white&style=for-the-badge" alt="jetpack_compose">
     <img src="https://img.shields.io/badge/Firebase-FFAA00?logo=firebase&logoColor=white&style=for-the-badge" alt="firebase">
